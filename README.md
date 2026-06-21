@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @westlikeslinux
-- 👀 I’m interested in programming with languages like c++, java, javascript, c, c#, etc. (BIG FRONTEND WEB DEVELOPER)
+- 👋 Hi, I’m @westlikeslinux and HL Founder
+- 👀 I’m interested in programming with languages like c++, java, javascript, c, c#, etc. 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on projects to make the microsoft surface work with OS's like ChromeOS and Linux better or development with kernals.
-- 📫 How to reach me (email westj1474@gmail.com) (so far)
+- Not working on MS Surface Linux because of the switch to ARM processors 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk.
 
