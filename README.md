@@ -4,7 +4,7 @@
 - Not working on MS Surface Linux because of the switch to ARM processors 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i nearly destroyed my PC from overclocking
-
+- Please note theres not gonna be lots of code here for a while
 <!---
 westlikeslinux/westlikeslinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
