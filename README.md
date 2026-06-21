@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - Not working on MS Surface Linux because of the switch to ARM processors 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: idk.
+- ⚡ Fun fact: i nearly destroyed my PC from overclocking
 
 <!---
 westlikeslinux/westlikeslinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
